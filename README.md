@@ -112,4 +112,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Created by [Your Name] - © 2025 Smart Plant Doctor
+Created by [MD Jafar Sadiq] - © 2025 Plant Disease Detection 
